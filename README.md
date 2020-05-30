@@ -1,4 +1,4 @@
-## 🙏 வணக்கம் 🙏 {align=center}
+## 🙏 வணக்கம் 🙏 
 # Deno REST API
 > Deno simple rest-api 
 ## Run
